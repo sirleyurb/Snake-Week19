@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "psW/qhA4YwXbhIFveoxf1EPMBn8uqworaPa625ZB7sqO0BX7ylIMt4WJx7K1vt+4ezS2gU87E5RXHutZqXObxw==",
+  "dgSpecHash": "eOG+m3qnAGvvaVK6KwDvVbyUoB8UyUIQlalOlSknVpac586CMnO4qftYKQvtMTGkR0DAKLKNnWl9EzJjqrQofg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\logitpe21\\SnakeOOP\\SnakeOOP\\SnakeOOP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\SirleyProga\\SnakeOOP\\SnakeOOP\\SnakeOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

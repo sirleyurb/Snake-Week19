@@ -26,7 +26,7 @@ namespace SnakeOOP
 
         public void Move(int offset, Direction direction )
         {
-            if(direction == Direction.LEFT)
+            if(direction == Direction.RIGHT)
             {
                 x = x + offset;
             }
